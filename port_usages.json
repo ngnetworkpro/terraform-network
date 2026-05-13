@@ -18,7 +18,6 @@
   },
   "dynamic": {
     "bypass_auth_when_server_down_for_voip": false,
-    "description": "",
     "mode": "dynamic",
     "rules": [
       {
