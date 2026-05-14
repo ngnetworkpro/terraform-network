@@ -56,7 +56,7 @@
   "security": {
     "all_networks": false,
     "bypass_auth_when_server_down_for_voip": false,
-    "description": "Port Profile for Verkada security devices",
+    "description": "Port Profile for security devices",
     "disable_autoneg": false,
     "disabled": false,
     "duplex": "auto",
